@@ -69,12 +69,12 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:codeforsofia@gmail.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
       show: true
-      href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
+      href: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1bd9835e62bad0de7f5cf5508722bf2281eefc7f
       icon: fas fa-key
 
 
